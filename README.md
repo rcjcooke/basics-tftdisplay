@@ -14,4 +14,5 @@ The XC-4629 is non-standard in a few significant ways. Next time I'm just going 
 * https://www.arduino.cc/en/Reference/TFTLibrary
 * https://www.arduino.cc/en/Tutorial/TFTGraph
 * https://www.arduino.cc/en/reference/SPI
-
+* https://arduino.stackexchange.com/questions/4979/how-can-i-implement-double-buffering-with-an-arduino-uno
+* 
